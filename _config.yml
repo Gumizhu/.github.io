@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-# language: en
-# language: zh-CN
+title: 谷米 • 小站
+subtitle: '不忘初心,方得始终'
+description: '谷米小站一个集技术分享资源推荐的个人网站'
+keywords: '谷米资源,谷米读书,资源分享'
+author: 'Gumizhu'
+language: 'zh-CN'
 timezone: ''
+email: '744224517@qq.com'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -100,11 +100,11 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ##theme: landscape
-theme: anzhiyu
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Gumizhu/username.github.io.git
+  repo: git@github.com:Gumizhu/Gumizhu.github.io.git
   branch: gh-pages
